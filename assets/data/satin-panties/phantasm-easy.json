@@ -1,10 +1,10 @@
 {
 	"song": {
 		"sectionLengths": [],
-		"player1": "bf-car",
+		"player1": "sonic",
 		"events": [],
 		"gfVersion": "gf",
-		"player2": "mom",
+		"player2": "sonic",
 		"notes": [
 			{
 				"sectionNotes": [
@@ -6849,11 +6849,11 @@
 			}
 		],
 		"player3": null,
-		"song": "satin-panties",
+		"song": "phantasm",
 		"validScore": true,
 		"sections": 0,
-		"needsVoices": false,
-		"stage": "spooky",
+		"needsVoices": true,
+		"stage": "fleet",
 		"speed": 2.8,
 		"bpm": 160
 	}
