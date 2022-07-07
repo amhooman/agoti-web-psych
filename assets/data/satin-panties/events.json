@@ -22,6 +22,46 @@
 						"bf-pixel"
 					]
 				]
+			],
+			[
+				72000,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-car"
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-pixel"
+					]
+				]
+			],
+			[
+				120187.5,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-car"
+					]
+				]
+			],
+			[
+				132000,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-pixel"
+					]
+				]
 			]
 		],
 		"bpm": 160,
